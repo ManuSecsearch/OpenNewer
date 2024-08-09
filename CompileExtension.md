@@ -27,14 +27,6 @@ Note: The executable will be in your DerivedData folder for this project.
 You can right-click the executable in the Targets folder to Show in Finder.
 ```
 
-### Execute the program
 
-#### Mac:
-```
-~/path/to/OpenNewer ~/path/to/source_sketchup_file.skp ~/path/to/destination_sketchup_converted_file version_number
-
-Outputs a new file:
-  ~/path/to/destination_sketchup_converted_file
-```
 
 
