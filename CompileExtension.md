@@ -16,11 +16,12 @@ See Build and Run for notes on how to run the project on specific OS platforms.
 #### Mac
 
 Minimum of Xcode 7.2 with [MacOSX 10.10 sdk](https://github.com/phracker/MacOSX-SDKs).
+
 Download the Sketchup SDK [Sketchu SDK](https://extensions.sketchup.com/sketchup-sdk).
 
 ### Build and Run
 
-Copy the repo folder into the samples folder of Sketchup SDK previously downloaded
+Copy the xcode folder into the samples folder where the Sketchup SDK resides
 
 
 #### Mac

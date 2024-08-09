@@ -6,8 +6,8 @@ Thus sharing between different version of sketchup is supported and permit users
 
 ## Summary to build the plugin
 
-To build the binary extension, please refer to the build instruction [Build.md](./xcode/Build.md)
-Once the extension is compiled, you'll have to place it into the osx folder. For more details please refer to the [How to create a plugin](./src/et_fileconvert/Howtocreatetheplugin.md)
+To compile the binary extension, please refer to the compile instruction document [CompileExtension.md](./CompileExtension.md)
+Once the extension is compiled, you'll have to place it into the osx folder. For more details please refer to the [How to create a plugin](./Howtocreatetheplugin.md)
 
 ## Usage 
 
