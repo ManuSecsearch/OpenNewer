@@ -6,5 +6,17 @@
 
 - Finally you have to rename the .zip file into a .rbz file 
 
+
+# Your compressed file
+
+The archive should contains the following : 
+
+```
+et_fileconvert.rb
+et_fileconvert\ruby\main.rb
+et_fileconvert\bin\osx\OpenNewer
+et_fileconvert\logs
+```
+
 Enjoy
 
