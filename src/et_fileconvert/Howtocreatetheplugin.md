@@ -1,9 +1,9 @@
 # How to create a plugin
 
-- You'll need first to build the binary sketchup extension using xcode. 
-For more details please refer to the build instruction [Build.md](../../xcode/Build.md)
+- You'll need first to compile the binary sketchup extension using xcode. 
+For more details please refer to the build instruction [Compilation Instruction](../../xcode/Build.md)
 
-- Once you get the binary built, you'll have to place a copy of it into the bin destination folder in the osx path. The osx path is under this folder [osx](./et_fileconvert/bin/osx)
+- Once you get the binary compiled successfully, you'll have to place a copy of it into the bin destination folder in the osx path. The osx path is under this folder [osx](./et_fileconvert/bin/osx)
 
 - Then you'll have to compress the folder [et_fileconvert](./et_fileconvert) and the file [et_fileconvert.rb](./et_fileconvert.rb) all together in one zip file
 
