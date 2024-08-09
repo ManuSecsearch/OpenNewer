@@ -16,7 +16,7 @@ Download the Sketchup SDK [Sketchu SDK](https://extensions.sketchup.com/sketchup
 
 ### Build and Run
 
-Copy the [.src/xcode]('./src/xcode') folder into the samples folder where the Sketchup SDK resides
+Copy the [.src/xcode](./src/xcode) folder into the samples folder where the Sketchup SDK resides
 
 #### Mac
 ```
