@@ -4,12 +4,7 @@ The OpenNewer extension is to convert skp file format between different version
 
 ## Getting Started
 
-Checkout the repo
-```
-git checkout 
-```
-
-See Build and Run for notes on how to run the project on specific OS platforms.
+You'll need to get some download and developpers tools first.
 
 ### Prerequisites
 
@@ -21,8 +16,7 @@ Download the Sketchup SDK [Sketchu SDK](https://extensions.sketchup.com/sketchup
 
 ### Build and Run
 
-Copy the xcode folder into the samples folder where the Sketchup SDK resides
-
+Copy the [.src/xcode]('./src/xcode') folder into the samples folder where the Sketchup SDK resides
 
 #### Mac
 ```
