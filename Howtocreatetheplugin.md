@@ -4,12 +4,12 @@
 
 - Then you'll have to compress the folder [et_fileconvert](./et_fileconvert) and the file [et_fileconvert.rb](./et_fileconvert.rb) all together in one zip file
 
-- Finally you have to rename the .zip file into a .rbz file 
+- Finally you have just to rename the .zip file into a .rbz file 
 
 
 # Your compressed file
 
-The archive should contains the following : 
+The archive.rbz should contains the following : 
 
 ```
 et_fileconvert.rb
